@@ -3430,3 +3430,7 @@ body.is-mobile.landing #footer {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+ul.icons.major > li > p {
+  margin-top: 2em;
+}
